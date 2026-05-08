@@ -1,1 +1,1 @@
-# Indexite Operations Studio
+# Indexite
